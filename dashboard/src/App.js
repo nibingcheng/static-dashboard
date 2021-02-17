@@ -11,11 +11,10 @@ function App() {
     <div className="App">
         <Sidebox />
         <div className='RH_boxes'>
-        <Topleftbox />
-        <Topcenterbox />
-        <Toprightbox />
-        
-        <Lowerlargebox />
+          <Topleftbox />
+          <Topcenterbox />
+          <Toprightbox />
+          <Lowerlargebox />
         </div>
     </div>
   );

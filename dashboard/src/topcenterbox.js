@@ -4,8 +4,8 @@ function Topcenterbox() {
     return (
 
         <div class='top_sm_box'>
-            <div>Center:</div>
-            <div>top_sm_box</div>
+            <div>Average Rating</div>
+            <div>4.6</div>
             
         </div>
     )

@@ -11,8 +11,8 @@ body {
 
 .left_lg_box {
   background-color: #dddddd;
-  width: 25%;
-  height: 500px;
+  width: 20%;
+  height: 650px;
   padding: 10px;
   display: table;
 }
@@ -26,19 +26,31 @@ span {
   display: block;
   background-color: #dddddd;
   width: 25%;
-  height: 160px;
+  height: 200px;
   margin-left: 20px;
   margin-bottom: 25px;
   padding: 10px;
 }
 
+#top_right_box {
+  text-align: center;
+}
+
 .lower_lg_box {
   display: block;
   background-color: #dddddd;
-  width: 91%;
-  height: 290px;
+  width: 89%;
+  height: 400px;
   margin-left: 20px;
   padding: 10px;
+}
+
+#inside_box {
+  background-color: #bebdbd;
+  width: 90%;
+  height: 250px;
+  margin-top: 65px;
+  margin-left: 25px;
 }
 
 .RH_boxes {

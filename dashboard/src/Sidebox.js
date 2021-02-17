@@ -5,12 +5,12 @@ function Sidebox() {
 
         <div class='left_lg_box'>
             <span>
-            <div>Class:</div>
-            <div>left_lg_box</div>
-            <div>test</div>
-            <div>test</div>
-            <div>test</div>
-            <div>test</div>
+                <div>Dashboard</div><br />
+                <div>Widget</div><br />
+                <div>Reviews</div><br />
+                <div>Customers</div><br />
+                <div>Online Analysis</div><br />
+                <div>Settings</div>
             </span>
         </div>
     )
